@@ -1,5 +1,5 @@
 # ML mini projects
-This repository contains Machine Learning mini projects created by 11th-grade GenAI students as a culmination of their learning after completing a 4-month course on AI and ML algorithms. 
+This repository contains Machine Learning mini projects created by 11th-grade **GenAI** students as a culmination of their learning after completing a 4-month course on AI and ML algorithms. 
 <br>
 <br>
 📂 What's Inside?
